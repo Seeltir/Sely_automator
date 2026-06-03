@@ -44,6 +44,7 @@ Si deseas ejecutar o modificar el código fuente, sigue estos pasos:
    pip install pandas fpdf2 customtkinter openpyxl
 3. **Ejecuta la aplicación**
    python main.py
+```
 
 ---
 

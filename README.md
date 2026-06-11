@@ -40,9 +40,13 @@ Si deseas ejecutar o modificar el código fuente, sigue estos pasos:
 ```bash
    git clone [https://github.com/Seeltir/Sely_automator.git](https://github.com/Seeltir/Sely_automator.git)
    cd Sely_automator
+```
 2. **Instala las dependencias necesarias:**
+```bash
    pip install pandas fpdf2 customtkinter openpyxl
+```
 3. **Ejecuta la aplicación**
+```bash
    python main.py
 ```
 
